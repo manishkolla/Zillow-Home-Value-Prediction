@@ -1,5 +1,5 @@
 # Zillow-Home-Value-Prediction
-## CSC 4740/ CSC 6780 Final Class Project
+## CSC 4780/ CSC 6780 Final Class Project
 ## Dr.Rafal. A Angryk
 
 ### Made in collaboration with
