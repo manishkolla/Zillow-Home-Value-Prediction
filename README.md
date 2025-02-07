@@ -20,7 +20,7 @@ With the increase in house prices year to year causing several factors of the ec
 ### Introduction:
 The rapidly rising cost of housing in the United States has significant implications for the economy, driving inflation, higher interest rates, and increased expenses across various sectors. To better understand these dynamics and predict future trends, we employed data science methodologies on a comprehensive dataset from Zillow, a leading real estate platform. Through thorough data exploration and visualization, we identified intriguing patterns, including unexpected house price drops in specific states during certain periods. This sparked our interest in delving deeper and developing a model for house price prediction. Under the insightful guidance of Professor Rafael, we implemented sophisticated data processing techniques, including effective null value replacement strategies. This meticulous approach ensured the accuracy and reliability of our analysis. Our research is poised to contribute valuable insights into the complex dynamics of the US housing market, enabling informed decision-making for individuals, businesses, and policymakers alike.
 
-Throughout our project we have worked on following the CRISP-DM (Cross-industry standard process for data mining) life cycle using the following phases
+Throughout our project we have worked on following methodology of CRISP-DM (Cross-industry standard process for data mining) life cycle using the following phases
 1. Business Understanding (Understanding the final deliverables )
 2. Data Understanding (Data Availability, Features understanding and selection )
 3. Data Processing (handling null values, molding the data, and merging them)
